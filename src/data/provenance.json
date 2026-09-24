@@ -1,0 +1,170 @@
+{
+ "harvest": {
+  "classes": [
+   {
+    "cls": "discipline sub",
+    "count": 8739,
+    "relation": "about"
+   },
+   {
+    "cls": "occupation sub",
+    "count": 6103,
+    "relation": "occupationalCategory"
+   },
+   {
+    "cls": "country",
+    "count": 1219,
+    "relation": "spatialCoverage"
+   },
+   {
+    "cls": "cosmetics sub",
+    "count": 171,
+    "relation": "about"
+   },
+   {
+    "cls": "us state",
+    "count": 50,
+    "relation": "spatialCoverage"
+   },
+   {
+    "cls": "hairstyle sub",
+    "count": 4,
+    "relation": "about"
+   },
+   {
+    "cls": "hairstyle",
+    "count": 1,
+    "relation": "about"
+   },
+   {
+    "cls": "personal care sub",
+    "count": 1,
+    "relation": "about"
+   },
+   {
+    "cls": "us city",
+    "count": 0,
+    "relation": "spatialCoverage"
+   }
+  ],
+  "classCount": 9,
+  "candidateEntities": 16288,
+  "surfaceForms": 16447
+ },
+ "coverage": {
+  "vocabTerms": 2408,
+  "exact": 9,
+  "headConcept": 783,
+  "noEntity": 1616,
+  "coreResolved": 48,
+  "coreRejected": 177,
+  "providersResolved": 0,
+  "providersNoEntity": 0,
+  "providerCandidates": []
+ },
+ "verification": {
+  "wrongSense": [
+   {
+    "term": "cosmetology",
+    "qid": "Q125772467",
+    "label": "Cosmetology Examining Board",
+    "desc": "government agency of Wisconsin",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "cosmetology",
+    "qid": "Q30271222",
+    "label": "Cosmetology Research Foundation",
+    "desc": "organization in Tokyo, Japan",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "cosmetology",
+    "qid": "Q63597653",
+    "label": "Cosmetology Students and Skin Cancer",
+    "desc": "clinical trial",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "barbering",
+    "qid": "Q58001762",
+    "label": "barbering",
+    "desc": "act of cutting, shaving, trimming, styling the hair, usually male facial and head hair",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "barbering",
+    "qid": "Q369570",
+    "label": "shaving",
+    "desc": "removal of hair with a razor or other bladed implement",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "barbering",
+    "qid": "Q46525452",
+    "label": "Barbering (fur and whisker trimming) by laboratory mice as a model of human trichotillomania and obsessive-compulsive spectrum disorders.",
+    "desc": "scientific article published in April 2004",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "barbering",
+    "qid": "Q34243518",
+    "label": "Barbering in mice: a model for trichotillomania",
+    "desc": "scientific article published on 01 December 2005",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "barbering",
+    "qid": "Q77409303",
+    "label": "Barbering, a Probable Risk Factor for HCV Transmission",
+    "desc": "scientific article published on 01 October 1998",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "esthetics",
+    "qid": "Q62040790",
+    "label": "Esthetics of Dental Composite and Adhesive System",
+    "desc": "clinical trial",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "esthetics",
+    "qid": "Q139387668",
+    "label": "Esthetics International Group Berhad",
+    "desc": "public company from Malaysia",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "esthetics",
+    "qid": "Q136111377",
+    "label": "",
+    "desc": "book 1996",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "esthetics",
+    "qid": "Q136125259",
+    "label": "",
+    "desc": "book 1989",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "skin care",
+    "qid": "Q30270435",
+    "label": "Skin Care and Laser Physicians of Beverly Hills",
+    "desc": "healthcare organization in Los Angeles, United States",
+    "kind": "wrong sense, outranked"
+   },
+   {
+    "term": "skin care",
+    "qid": "Q140204632",
+    "label": "Skin care compositions and methods of use thereof",
+    "desc": "US patent 11446225",
+    "kind": "wrong sense, outranked"
+   }
+  ],
+  "myErrors": [],
+  "deadQids": [],
+  "v2PoolChecked": 36
+ }
+}

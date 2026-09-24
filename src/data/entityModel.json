@@ -1,0 +1,955 @@
+{
+ "totals": {
+  "pages": 670,
+  "contentPages": 669,
+  "nonCanonical": 1,
+  "v1Entities": 0,
+  "v2Entities": 1910,
+  "v1PerPage": 0.0,
+  "v2PerPage": 2.85,
+  "v2PerContentPage": 2.86,
+  "multiple": 0,
+  "distinctEntities": 36,
+  "pagesWithZeroV1": 670,
+  "pagesWithZeroV2": 1,
+  "candidatePool": 16288,
+  "vocabTerms": 2408,
+  "classBlocks": 9,
+  "priorV2Entities": 0,
+  "priorV2PerPage": 0.0
+ },
+ "bySegment": [
+  {
+   "segment": "BLOG POST",
+   "pages": 440,
+   "v1": 0,
+   "v2": 1106,
+   "v1PerPage": 0.0,
+   "v2PerPage": 2.51,
+   "traffic": 47888
+  },
+  {
+   "segment": "CAMPUS",
+   "pages": 67,
+   "v1": 0,
+   "v2": 361,
+   "v1PerPage": 0.0,
+   "v2PerPage": 5.39,
+   "traffic": 16547
+  },
+  {
+   "segment": "PRESS",
+   "pages": 61,
+   "v1": 0,
+   "v2": 150,
+   "v1PerPage": 0.0,
+   "v2PerPage": 2.46,
+   "traffic": 0
+  },
+  {
+   "segment": "PODCAST",
+   "pages": 35,
+   "v1": 0,
+   "v2": 88,
+   "v1PerPage": 0.0,
+   "v2PerPage": 2.51,
+   "traffic": 0
+  },
+  {
+   "segment": "PROGRAM",
+   "pages": 19,
+   "v1": 0,
+   "v2": 82,
+   "v1PerPage": 0.0,
+   "v2PerPage": 4.32,
+   "traffic": 628
+  },
+  {
+   "segment": "OTHER",
+   "pages": 12,
+   "v1": 0,
+   "v2": 31,
+   "v1PerPage": 0.0,
+   "v2PerPage": 2.58,
+   "traffic": 475
+  },
+  {
+   "segment": "SCHOOL INDEX",
+   "pages": 7,
+   "v1": 0,
+   "v2": 28,
+   "v1PerPage": 0.0,
+   "v2PerPage": 4.0,
+   "traffic": 57
+  },
+  {
+   "segment": "ABOUT / MEDIA",
+   "pages": 8,
+   "v1": 0,
+   "v2": 17,
+   "v1PerPage": 0.0,
+   "v2PerPage": 2.12,
+   "traffic": 1
+  },
+  {
+   "segment": "ALUMNI",
+   "pages": 7,
+   "v1": 0,
+   "v2": 14,
+   "v1PerPage": 0.0,
+   "v2PerPage": 2.0,
+   "traffic": 0
+  },
+  {
+   "segment": "ADMISSIONS",
+   "pages": 4,
+   "v1": 0,
+   "v2": 10,
+   "v1PerPage": 0.0,
+   "v2PerPage": 2.5,
+   "traffic": 31
+  },
+  {
+   "segment": "CONVERSION",
+   "pages": 4,
+   "v1": 0,
+   "v2": 8,
+   "v1PerPage": 0.0,
+   "v2PerPage": 2.0,
+   "traffic": 4
+  },
+  {
+   "segment": "CONTINUING ED",
+   "pages": 1,
+   "v1": 0,
+   "v2": 5,
+   "v1PerPage": 0.0,
+   "v2PerPage": 5.0,
+   "traffic": 40
+  },
+  {
+   "segment": "HOMEPAGE",
+   "pages": 1,
+   "v1": 0,
+   "v2": 4,
+   "v1PerPage": 0.0,
+   "v2PerPage": 4.0,
+   "traffic": 10278
+  },
+  {
+   "segment": "CLINIC SERVICE",
+   "pages": 2,
+   "v1": 0,
+   "v2": 4,
+   "v1PerPage": 0.0,
+   "v2PerPage": 2.0,
+   "traffic": 1198
+  },
+  {
+   "segment": "LEGAL/POLICY",
+   "pages": 1,
+   "v1": 0,
+   "v2": 2,
+   "v1PerPage": 0.0,
+   "v2PerPage": 2.0,
+   "traffic": 0
+  },
+  {
+   "segment": "NON-CANONICAL (noindex)",
+   "pages": 1,
+   "v1": 0,
+   "v2": 0,
+   "v1PerPage": 0.0,
+   "v2PerPage": 0.0,
+   "traffic": 0
+  }
+ ],
+ "entityPool": [
+  {
+   "qid": "Q30266523",
+   "label": "Tricoci University of Beauty Culture",
+   "desc": "Beauty school with locations across three states offering Cosmetology, Esthetics and Barber programs",
+   "pages": 669,
+   "relations": [
+    "publisher"
+   ]
+  },
+  {
+   "qid": "Q1860",
+   "label": "English",
+   "desc": "West Germanic language",
+   "pages": 669,
+   "relations": [
+    "inLanguage"
+   ]
+  },
+  {
+   "qid": "Q2474068",
+   "label": "cosmetology",
+   "desc": "study and application of beauty treatment",
+   "pages": 120,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q118720092",
+   "label": "cosmetology school",
+   "desc": "type of school",
+   "pages": 69,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q12367504",
+   "label": "aesthetician",
+   "desc": "skincare professional that focuses on bringing out the beauty of one's skin",
+   "pages": 65,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q1204",
+   "label": "Illinois",
+   "desc": "state of the United States of America",
+   "pages": 57,
+   "relations": [
+    "about",
+    "spatialCoverage"
+   ]
+  },
+  {
+   "qid": "Q1297",
+   "label": "Chicago",
+   "desc": "city and county seat of Cook County, and largest city in State of Illinois, United States of America",
+   "pages": 33,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q6869278",
+   "label": "vocational education",
+   "desc": "education intended to prepare the student for a particular job or trade",
+   "pages": 28,
+   "relations": [
+    "educationalLevel"
+   ]
+  },
+  {
+   "qid": "Q107198",
+   "label": "barber",
+   "desc": "person whose occupation is mainly to cut, dress, groom, style and shave males' hair",
+   "pages": 23,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q2257093",
+   "label": "esthetics",
+   "desc": "school subject in Belgium",
+   "pages": 22,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q1415",
+   "label": "Indiana",
+   "desc": "state of the United States of America",
+   "pages": 22,
+   "relations": [
+    "about",
+    "spatialCoverage"
+   ]
+  },
+  {
+   "qid": "Q233892",
+   "label": "Rockford",
+   "desc": "county seat of Winnebago County, Illinois, United States",
+   "pages": 21,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q2752318",
+   "label": "cosmetologist",
+   "desc": "person who performs cosmetic treatments to hair, skin, and nails",
+   "pages": 16,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q6346",
+   "label": "Indianapolis",
+   "desc": "capital city of the U.S. state of Indiana and seat of Marion County",
+   "pages": 14,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q1294114",
+   "label": "skin care",
+   "desc": "grooming behavior",
+   "pages": 12,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q913915",
+   "label": "Bridgeview",
+   "desc": "village in Cook County, Illinois, United States",
+   "pages": 8,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q1537",
+   "label": "Wisconsin",
+   "desc": "state of the United States of America",
+   "pages": 8,
+   "relations": [
+    "about",
+    "spatialCoverage"
+   ]
+  },
+  {
+   "qid": "Q96185357",
+   "label": "Barbering, Tomb of Userhat",
+   "desc": "Facsimile, Userhat (TT 56), barber by Nina de Garis Davies (MET, 30.4.40)",
+   "pages": 7,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q638187",
+   "label": "Lafayette",
+   "desc": "city in and the county seat of Tippecanoe County, Indiana, United States",
+   "pages": 6,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q499887",
+   "label": "Elgin",
+   "desc": "city in Cook and Kane counties in the northern part of the U.S. state of Illinois",
+   "pages": 5,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q257536",
+   "label": "Janesville",
+   "desc": "city in and county seat of Rock County, Wisconsin, United States",
+   "pages": 5,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q1787181",
+   "label": "Libertyville",
+   "desc": "village in Lake County, Illinois, United States",
+   "pages": 4,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q912145",
+   "label": "Glendale Heights",
+   "desc": "village in DuPage County, Illinois, United States",
+   "pages": 4,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q11325221",
+   "label": "nail technician",
+   "desc": "nail technician or manicurist",
+   "pages": 4,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q490385",
+   "label": "Bloomington",
+   "desc": "county seat of Monroe County, Indiana, United States",
+   "pages": 3,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q233129",
+   "label": "Peoria",
+   "desc": "county seat of Peoria County, Illinois, United States",
+   "pages": 3,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q575407",
+   "label": "Normal",
+   "desc": "town in McLean County, Illinois, United States",
+   "pages": 3,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q462184",
+   "label": "Urbana",
+   "desc": "city in and county seat of Champaign County, Illinois, United States",
+   "pages": 2,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q2633526",
+   "label": "false eyelashes",
+   "desc": "cosmetic application",
+   "pages": 1,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q537853",
+   "label": "Carmel",
+   "desc": "city in Hamilton County, Indiana, United States",
+   "pages": 1,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q828748",
+   "label": "continuing education",
+   "desc": "education undertaken after initial education for either personal or professional reasons",
+   "pages": 1,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q188823",
+   "label": "scholarship",
+   "desc": "award of financial aid for a student, artist, young scientist etc. to further their education",
+   "pages": 1,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q747493",
+   "label": "manicure",
+   "desc": "cosmetic beauty treatment for the fingernails and hands",
+   "pages": 1,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q578221",
+   "label": "Cicero",
+   "desc": "town in Cook County, Illinois, United States",
+   "pages": 1,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q268052",
+   "label": "permanent make-up",
+   "desc": "type of makeup",
+   "pages": 1,
+   "relations": [
+    "about"
+   ]
+  },
+  {
+   "qid": "Q2284046",
+   "label": "Fishers",
+   "desc": "city in Hamilton County, Indiana, United States",
+   "pages": 1,
+   "relations": [
+    "about"
+   ]
+  }
+ ],
+ "samplePages": [
+  {
+   "url": "https://www.tricociuniversity.edu/campuses/illinois/chicago-metro/bridgeview/",
+   "segment": "CAMPUS",
+   "traffic": 2751,
+   "v1": 0,
+   "v2": 6,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q30266523",
+     "label": "Tricoci University of Beauty Culture",
+     "desc": "Beauty school with locations across three states offering Cosmetology, Esthetics and Barber programs",
+     "why": "the institution itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    },
+    {
+     "relation": "spatialCoverage",
+     "qid": "Q1204",
+     "label": "Illinois",
+     "desc": "state of the United States of America",
+     "why": "the city or state this campus serves, taken from its route"
+    },
+    {
+     "relation": "about",
+     "qid": "Q2474068",
+     "label": "cosmetology",
+     "desc": "study and application of beauty treatment",
+     "why": "the subjects named on the page"
+    },
+    {
+     "relation": "about",
+     "qid": "Q913915",
+     "label": "Bridgeview",
+     "desc": "village in Cook County, Illinois, United States",
+     "why": "the subjects named on the page"
+    },
+    {
+     "relation": "about",
+     "qid": "Q2257093",
+     "label": "esthetics",
+     "desc": "school subject in Belgium",
+     "why": "the subjects named on the page"
+    }
+   ]
+  },
+  {
+   "url": "https://www.tricociuniversity.edu/continuing-education/",
+   "segment": "CONTINUING ED",
+   "traffic": 40,
+   "v1": 0,
+   "v2": 5,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q30266523",
+     "label": "Tricoci University of Beauty Culture",
+     "desc": "Beauty school with locations across three states offering Cosmetology, Esthetics and Barber programs",
+     "why": "the institution itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    },
+    {
+     "relation": "about",
+     "qid": "Q828748",
+     "label": "continuing education",
+     "desc": "education undertaken after initial education for either personal or professional reasons",
+     "why": "the disciplines and treatments this programme teaches"
+    },
+    {
+     "relation": "about",
+     "qid": "Q2474068",
+     "label": "cosmetology",
+     "desc": "study and application of beauty treatment",
+     "why": "the disciplines and treatments this programme teaches"
+    },
+    {
+     "relation": "educationalLevel",
+     "qid": "Q6869278",
+     "label": "vocational education",
+     "desc": "education intended to prepare the student for a particular job or trade",
+     "why": "the kind of education offered"
+    }
+   ]
+  },
+  {
+   "url": "https://www.tricociuniversity.edu/admissions-financial-aid/beauty-scholarships/",
+   "segment": "ADMISSIONS",
+   "traffic": 31,
+   "v1": 0,
+   "v2": 4,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q30266523",
+     "label": "Tricoci University of Beauty Culture",
+     "desc": "Beauty school with locations across three states offering Cosmetology, Esthetics and Barber programs",
+     "why": "the institution itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    },
+    {
+     "relation": "about",
+     "qid": "Q2474068",
+     "label": "cosmetology",
+     "desc": "study and application of beauty treatment",
+     "why": "the subjects named on the page"
+    },
+    {
+     "relation": "about",
+     "qid": "Q188823",
+     "label": "scholarship",
+     "desc": "award of financial aid for a student, artist, young scientist etc. to further their education",
+     "why": "the subjects named on the page"
+    }
+   ]
+  },
+  {
+   "url": "https://www.tricociuniversity.edu/our-beauty-schools/career/",
+   "segment": "SCHOOL INDEX",
+   "traffic": 41,
+   "v1": 0,
+   "v2": 4,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q30266523",
+     "label": "Tricoci University of Beauty Culture",
+     "desc": "Beauty school with locations across three states offering Cosmetology, Esthetics and Barber programs",
+     "why": "the institution itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    },
+    {
+     "relation": "about",
+     "qid": "Q2474068",
+     "label": "cosmetology",
+     "desc": "study and application of beauty treatment",
+     "why": "the field the institution teaches"
+    },
+    {
+     "relation": "educationalLevel",
+     "qid": "Q6869278",
+     "label": "vocational education",
+     "desc": "education intended to prepare the student for a particular job or trade",
+     "why": "the kind of education offered"
+    }
+   ]
+  },
+  {
+   "url": "https://www.tricociuniversity.edu/programs/nail-technology/",
+   "segment": "PROGRAM",
+   "traffic": 277,
+   "v1": 0,
+   "v2": 4,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q30266523",
+     "label": "Tricoci University of Beauty Culture",
+     "desc": "Beauty school with locations across three states offering Cosmetology, Esthetics and Barber programs",
+     "why": "the institution itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    },
+    {
+     "relation": "about",
+     "qid": "Q1415",
+     "label": "Indiana",
+     "desc": "state of the United States of America",
+     "why": "the disciplines and treatments this programme teaches"
+    },
+    {
+     "relation": "educationalLevel",
+     "qid": "Q6869278",
+     "label": "vocational education",
+     "desc": "education intended to prepare the student for a particular job or trade",
+     "why": "the kind of education offered"
+    }
+   ]
+  },
+  {
+   "url": "https://www.tricociuniversity.edu/",
+   "segment": "HOMEPAGE",
+   "traffic": 10278,
+   "v1": 0,
+   "v2": 4,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q30266523",
+     "label": "Tricoci University of Beauty Culture",
+     "desc": "Beauty school with locations across three states offering Cosmetology, Esthetics and Barber programs",
+     "why": "the institution itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    },
+    {
+     "relation": "about",
+     "qid": "Q2474068",
+     "label": "cosmetology",
+     "desc": "study and application of beauty treatment",
+     "why": "the field the institution teaches"
+    },
+    {
+     "relation": "educationalLevel",
+     "qid": "Q6869278",
+     "label": "vocational education",
+     "desc": "education intended to prepare the student for a particular job or trade",
+     "why": "the kind of education offered"
+    }
+   ]
+  },
+  {
+   "url": "https://www.tricociuniversity.edu/the-daymakers-podcast/yessenias-journey-from-barber-student-to-confident-pro/",
+   "segment": "PODCAST",
+   "traffic": 0,
+   "v1": 0,
+   "v2": 3,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q30266523",
+     "label": "Tricoci University of Beauty Culture",
+     "desc": "Beauty school with locations across three states offering Cosmetology, Esthetics and Barber programs",
+     "why": "the institution itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    },
+    {
+     "relation": "about",
+     "qid": "Q107198",
+     "label": "barber",
+     "desc": "person whose occupation is mainly to cut, dress, groom, style and shave males' hair",
+     "why": "the subjects this article covers"
+    }
+   ]
+  },
+  {
+   "url": "https://www.tricociuniversity.edu/contact-us/",
+   "segment": "CONVERSION",
+   "traffic": 4,
+   "v1": 0,
+   "v2": 2,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q30266523",
+     "label": "Tricoci University of Beauty Culture",
+     "desc": "Beauty school with locations across three states offering Cosmetology, Esthetics and Barber programs",
+     "why": "the institution itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    }
+   ]
+  },
+  {
+   "url": "https://www.tricociuniversity.edu/mentor-gallery/founder-chairman-allvus-sam-villa/",
+   "segment": "ABOUT / MEDIA",
+   "traffic": 1,
+   "v1": 0,
+   "v2": 2,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q30266523",
+     "label": "Tricoci University of Beauty Culture",
+     "desc": "Beauty school with locations across three states offering Cosmetology, Esthetics and Barber programs",
+     "why": "the institution itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    }
+   ]
+  },
+  {
+   "url": "https://www.tricociuniversity.edu/beauty-blog/cosmetology/the-art-and-business-of-african-hair-braiding/",
+   "segment": "BLOG POST",
+   "traffic": 23624,
+   "v1": 0,
+   "v2": 2,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q30266523",
+     "label": "Tricoci University of Beauty Culture",
+     "desc": "Beauty school with locations across three states offering Cosmetology, Esthetics and Barber programs",
+     "why": "the institution itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    }
+   ]
+  },
+  {
+   "url": "https://www.tricociuniversity.edu/care-grants-disclosure/",
+   "segment": "LEGAL/POLICY",
+   "traffic": 0,
+   "v1": 0,
+   "v2": 2,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q30266523",
+     "label": "Tricoci University of Beauty Culture",
+     "desc": "Beauty school with locations across three states offering Cosmetology, Esthetics and Barber programs",
+     "why": "the institution itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    }
+   ]
+  },
+  {
+   "url": "https://www.tricociuniversity.edu/clinic-services/clinic-salon-locations/",
+   "segment": "CLINIC SERVICE",
+   "traffic": 1198,
+   "v1": 0,
+   "v2": 2,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q30266523",
+     "label": "Tricoci University of Beauty Culture",
+     "desc": "Beauty school with locations across three states offering Cosmetology, Esthetics and Barber programs",
+     "why": "the institution itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    }
+   ]
+  },
+  {
+   "url": "https://www.tricociuniversity.edu/clinic-services/",
+   "segment": "OTHER",
+   "traffic": 357,
+   "v1": 0,
+   "v2": 2,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q30266523",
+     "label": "Tricoci University of Beauty Culture",
+     "desc": "Beauty school with locations across three states offering Cosmetology, Esthetics and Barber programs",
+     "why": "the institution itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    }
+   ]
+  },
+  {
+   "url": "https://www.tricociuniversity.edu/in-the-news-and-press/wish-tv-segment-trade-school-vs-4-year-university-which-path-is-right-for-you/",
+   "segment": "PRESS",
+   "traffic": 0,
+   "v1": 0,
+   "v2": 2,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q30266523",
+     "label": "Tricoci University of Beauty Culture",
+     "desc": "Beauty school with locations across three states offering Cosmetology, Esthetics and Barber programs",
+     "why": "the institution itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    }
+   ]
+  },
+  {
+   "url": "https://www.tricociuniversity.edu/tricoci-alumni/makeup-artist-melissa-marshall/",
+   "segment": "ALUMNI",
+   "traffic": 0,
+   "v1": 0,
+   "v2": 2,
+   "entities": [
+    {
+     "relation": "publisher",
+     "qid": "Q30266523",
+     "label": "Tricoci University of Beauty Culture",
+     "desc": "Beauty school with locations across three states offering Cosmetology, Esthetics and Barber programs",
+     "why": "the institution itself, which has its own Wikidata item"
+    },
+    {
+     "relation": "inLanguage",
+     "qid": "Q1860",
+     "label": "English",
+     "desc": "West Germanic language",
+     "why": "language of the page"
+    }
+   ]
+  }
+ ]
+}

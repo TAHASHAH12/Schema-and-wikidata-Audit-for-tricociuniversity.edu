@@ -1,0 +1,918 @@
+{
+ "coverage": [
+  {
+   "segment": "BLOG POST",
+   "pages": 441,
+   "traffic": 47905,
+   "types": [
+    {
+     "type": "BreadcrumbList",
+     "pages": 441,
+     "pct": 100
+    },
+    {
+     "type": "CollegeOrUniversity",
+     "pages": 441,
+     "pct": 100
+    },
+    {
+     "type": "ContactPoint",
+     "pages": 441,
+     "pct": 100
+    },
+    {
+     "type": "ImageObject",
+     "pages": 441,
+     "pct": 100
+    },
+    {
+     "type": "ListItem",
+     "pages": 441,
+     "pct": 100
+    },
+    {
+     "type": "Organization",
+     "pages": 441,
+     "pct": 100
+    },
+    {
+     "type": "Person",
+     "pages": 441,
+     "pct": 100
+    },
+    {
+     "type": "Place",
+     "pages": 441,
+     "pct": 100
+    },
+    {
+     "type": "PostalAddress",
+     "pages": 441,
+     "pct": 100
+    },
+    {
+     "type": "WebPage",
+     "pages": 441,
+     "pct": 100
+    }
+   ],
+   "avgTypes": 12.0
+  },
+  {
+   "segment": "CAMPUS",
+   "pages": 68,
+   "traffic": 16596,
+   "types": [
+    {
+     "type": "CollegeOrUniversity",
+     "pages": 68,
+     "pct": 100
+    },
+    {
+     "type": "ContactPoint",
+     "pages": 68,
+     "pct": 100
+    },
+    {
+     "type": "Organization",
+     "pages": 68,
+     "pct": 100
+    },
+    {
+     "type": "Person",
+     "pages": 68,
+     "pct": 100
+    },
+    {
+     "type": "PostalAddress",
+     "pages": 68,
+     "pct": 100
+    },
+    {
+     "type": "Place",
+     "pages": 67,
+     "pct": 99
+    },
+    {
+     "type": "Article",
+     "pages": 52,
+     "pct": 76
+    },
+    {
+     "type": "BreadcrumbList",
+     "pages": 52,
+     "pct": 76
+    },
+    {
+     "type": "ImageObject",
+     "pages": 52,
+     "pct": 76
+    },
+    {
+     "type": "ListItem",
+     "pages": 52,
+     "pct": 76
+    }
+   ],
+   "avgTypes": 13.5
+  },
+  {
+   "segment": "HOMEPAGE",
+   "pages": 1,
+   "traffic": 10278,
+   "types": [
+    {
+     "type": "CollegeOrUniversity",
+     "pages": 1,
+     "pct": 100
+    },
+    {
+     "type": "ContactPoint",
+     "pages": 1,
+     "pct": 100
+    },
+    {
+     "type": "EducationalOccupationalProgram",
+     "pages": 1,
+     "pct": 100
+    },
+    {
+     "type": "GovernmentOrganization",
+     "pages": 1,
+     "pct": 100
+    },
+    {
+     "type": "OfferCatalog",
+     "pages": 1,
+     "pct": 100
+    },
+    {
+     "type": "Organization",
+     "pages": 1,
+     "pct": 100
+    },
+    {
+     "type": "Person",
+     "pages": 1,
+     "pct": 100
+    },
+    {
+     "type": "PostalAddress",
+     "pages": 1,
+     "pct": 100
+    }
+   ],
+   "avgTypes": 8.0
+  },
+  {
+   "segment": "CLINIC",
+   "pages": 3,
+   "traffic": 1555,
+   "types": [
+    {
+     "type": "Article",
+     "pages": 3,
+     "pct": 100
+    },
+    {
+     "type": "BreadcrumbList",
+     "pages": 3,
+     "pct": 100
+    },
+    {
+     "type": "CollegeOrUniversity",
+     "pages": 3,
+     "pct": 100
+    },
+    {
+     "type": "ContactPoint",
+     "pages": 3,
+     "pct": 100
+    },
+    {
+     "type": "ImageObject",
+     "pages": 3,
+     "pct": 100
+    },
+    {
+     "type": "ListItem",
+     "pages": 3,
+     "pct": 100
+    },
+    {
+     "type": "Organization",
+     "pages": 3,
+     "pct": 100
+    },
+    {
+     "type": "Person",
+     "pages": 3,
+     "pct": 100
+    },
+    {
+     "type": "Place",
+     "pages": 3,
+     "pct": 100
+    },
+    {
+     "type": "PostalAddress",
+     "pages": 3,
+     "pct": 100
+    }
+   ],
+   "avgTypes": 12.0
+  },
+  {
+   "segment": "PROGRAM",
+   "pages": 20,
+   "traffic": 628,
+   "types": [
+    {
+     "type": "Organization",
+     "pages": 20,
+     "pct": 100
+    },
+    {
+     "type": "Place",
+     "pages": 20,
+     "pct": 100
+    },
+    {
+     "type": "PostalAddress",
+     "pages": 20,
+     "pct": 100
+    },
+    {
+     "type": "Article",
+     "pages": 16,
+     "pct": 80
+    },
+    {
+     "type": "BreadcrumbList",
+     "pages": 16,
+     "pct": 80
+    },
+    {
+     "type": "CollegeOrUniversity",
+     "pages": 16,
+     "pct": 80
+    },
+    {
+     "type": "ContactPoint",
+     "pages": 16,
+     "pct": 80
+    },
+    {
+     "type": "ImageObject",
+     "pages": 16,
+     "pct": 80
+    },
+    {
+     "type": "ListItem",
+     "pages": 16,
+     "pct": 80
+    },
+    {
+     "type": "Person",
+     "pages": 16,
+     "pct": 80
+    }
+   ],
+   "avgTypes": 12.8
+  },
+  {
+   "segment": "OTHER",
+   "pages": 26,
+   "traffic": 73,
+   "types": [
+    {
+     "type": "BreadcrumbList",
+     "pages": 24,
+     "pct": 92
+    },
+    {
+     "type": "CollegeOrUniversity",
+     "pages": 24,
+     "pct": 92
+    },
+    {
+     "type": "ContactPoint",
+     "pages": 24,
+     "pct": 92
+    },
+    {
+     "type": "ImageObject",
+     "pages": 24,
+     "pct": 92
+    },
+    {
+     "type": "ListItem",
+     "pages": 24,
+     "pct": 92
+    },
+    {
+     "type": "Organization",
+     "pages": 24,
+     "pct": 92
+    },
+    {
+     "type": "Place",
+     "pages": 24,
+     "pct": 92
+    },
+    {
+     "type": "PostalAddress",
+     "pages": 24,
+     "pct": 92
+    },
+    {
+     "type": "WebSite",
+     "pages": 24,
+     "pct": 92
+    },
+    {
+     "type": "Article",
+     "pages": 23,
+     "pct": 88
+    }
+   ],
+   "avgTypes": 11.0
+  },
+  {
+   "segment": "SCHOOL INDEX",
+   "pages": 8,
+   "traffic": 57,
+   "types": [
+    {
+     "type": "BreadcrumbList",
+     "pages": 8,
+     "pct": 100
+    },
+    {
+     "type": "CollegeOrUniversity",
+     "pages": 8,
+     "pct": 100
+    },
+    {
+     "type": "ContactPoint",
+     "pages": 8,
+     "pct": 100
+    },
+    {
+     "type": "ImageObject",
+     "pages": 8,
+     "pct": 100
+    },
+    {
+     "type": "ListItem",
+     "pages": 8,
+     "pct": 100
+    },
+    {
+     "type": "Organization",
+     "pages": 8,
+     "pct": 100
+    },
+    {
+     "type": "Person",
+     "pages": 8,
+     "pct": 100
+    },
+    {
+     "type": "Place",
+     "pages": 8,
+     "pct": 100
+    },
+    {
+     "type": "PostalAddress",
+     "pages": 8,
+     "pct": 100
+    },
+    {
+     "type": "WebSite",
+     "pages": 8,
+     "pct": 100
+    }
+   ],
+   "avgTypes": 12.8
+  },
+  {
+   "segment": "ADMISSIONS",
+   "pages": 5,
+   "traffic": 55,
+   "types": [
+    {
+     "type": "Article",
+     "pages": 5,
+     "pct": 100
+    },
+    {
+     "type": "BreadcrumbList",
+     "pages": 5,
+     "pct": 100
+    },
+    {
+     "type": "CollegeOrUniversity",
+     "pages": 5,
+     "pct": 100
+    },
+    {
+     "type": "ContactPoint",
+     "pages": 5,
+     "pct": 100
+    },
+    {
+     "type": "ImageObject",
+     "pages": 5,
+     "pct": 100
+    },
+    {
+     "type": "ListItem",
+     "pages": 5,
+     "pct": 100
+    },
+    {
+     "type": "Organization",
+     "pages": 5,
+     "pct": 100
+    },
+    {
+     "type": "Person",
+     "pages": 5,
+     "pct": 100
+    },
+    {
+     "type": "Place",
+     "pages": 5,
+     "pct": 100
+    },
+    {
+     "type": "PostalAddress",
+     "pages": 5,
+     "pct": 100
+    }
+   ],
+   "avgTypes": 12.6
+  },
+  {
+   "segment": "PRESS",
+   "pages": 62,
+   "traffic": 0,
+   "types": [
+    {
+     "type": "BreadcrumbList",
+     "pages": 62,
+     "pct": 100
+    },
+    {
+     "type": "CollegeOrUniversity",
+     "pages": 62,
+     "pct": 100
+    },
+    {
+     "type": "ContactPoint",
+     "pages": 62,
+     "pct": 100
+    },
+    {
+     "type": "ImageObject",
+     "pages": 62,
+     "pct": 100
+    },
+    {
+     "type": "ListItem",
+     "pages": 62,
+     "pct": 100
+    },
+    {
+     "type": "Organization",
+     "pages": 62,
+     "pct": 100
+    },
+    {
+     "type": "Person",
+     "pages": 62,
+     "pct": 100
+    },
+    {
+     "type": "Place",
+     "pages": 62,
+     "pct": 100
+    },
+    {
+     "type": "PostalAddress",
+     "pages": 62,
+     "pct": 100
+    },
+    {
+     "type": "WebPage",
+     "pages": 62,
+     "pct": 100
+    }
+   ],
+   "avgTypes": 12.0
+  },
+  {
+   "segment": "PODCAST",
+   "pages": 36,
+   "traffic": 0,
+   "types": [
+    {
+     "type": "PodcastSeries",
+     "pages": 36,
+     "pct": 100
+    },
+    {
+     "type": "MediaObject",
+     "pages": 35,
+     "pct": 97
+    },
+    {
+     "type": "PodcastEpisode",
+     "pages": 35,
+     "pct": 97
+    },
+    {
+     "type": "Organization",
+     "pages": 1,
+     "pct": 3
+    },
+    {
+     "type": "Person",
+     "pages": 1,
+     "pct": 3
+    }
+   ],
+   "avgTypes": 3.0
+  }
+ ],
+ "defects": [
+  {
+   "id": "campus-address",
+   "severity": "Critical",
+   "pages": 52,
+   "title": "Campus pages give the head-office address, not their own",
+   "detail": "52 of 68 campus pages carry only the Park Ridge corporate address in their markup. Sitewide, 611 of 670 pages assert it. Every campus page therefore tells Google the school is located in Park Ridge, which is the one thing a multi-location school must get right.",
+   "fix": "Emit a per-campus Place with that campus's own streetAddress, geo coordinates and telephone, and reference it from the campus page's primary entity."
+  },
+  {
+   "id": "programs-itemlist",
+   "severity": "Critical",
+   "pages": 1,
+   "title": "Five valid Course pages, no carousel markup to make them eligible",
+   "detail": "5 programme pages carry well-formed Course markup with provider, prerequisites, credential awarded and course instances. Google's course list rich result needs at least three courses plus ItemList markup on a summary page. /programs/ is marked up as an Article and there is no ItemList anywhere on the site.",
+   "fix": "Add ItemList markup to /programs/ referencing the five Course URLs. The Course data already qualifies."
+  },
+  {
+   "id": "campus-not-local",
+   "severity": "High",
+   "pages": 68,
+   "title": "Campuses are not marked up as places of business",
+   "detail": "All 68 campus pages inherit the sitewide CollegeOrUniversity node. None declares itself a distinct location with its own geo coordinates, opening hours or contact point. Only 18 carry an AggregateRating and those sit on a Product node rather than the organisation.",
+   "fix": "Give each campus a School or LocalBusiness node with geo, openingHoursSpecification, telephone and areaServed, linked to the parent organisation with parentOrganization."
+  },
+  {
+   "id": "product-rating",
+   "severity": "High",
+   "pages": 10,
+   "title": "A school is marked up as a Product carrying a rating with no offer",
+   "detail": "10 pages declare a Product named things like 'Cosmetology School' with an aggregateRating and no offers. Product is for goods and services with a price; a campus is not one. An aggregateRating on a Product with no offer is also the pattern Google's own guidance warns about.",
+   "fix": "Move the rating onto the EducationalOrganization or School node for that campus and drop the Product type."
+  },
+  {
+   "id": "no-occupation",
+   "severity": "High",
+   "pages": 4,
+   "title": "Career pages never say which occupation they are about",
+   "detail": "Four programme career-path pages describe the job a graduate does, and no page on the site carries Occupation markup or an occupationalCategory. This is the clearest entity signal in vocational education and no competitor in this set uses it either.",
+   "fix": "Add Occupation markup with occupationalCategory (O*NET-SOC) and a Wikidata sameAs on each career-path page, and occupationalCredentialAwarded on the programme."
+  },
+  {
+   "id": "program-subpages",
+   "severity": "Medium",
+   "pages": 15,
+   "title": "Programme sub-pages are typed as generic Articles",
+   "detail": "15 pages under /programs/ \u2014 curriculum, career path, schedule, instructor profiles \u2014 are typed as Article. They are parts of an educational programme, not editorial content.",
+   "fix": "Type curriculum pages as Syllabus or a Course part, and link sub-pages to their parent Course with hasPart / isPartOf."
+  },
+  {
+   "id": "clinic-services",
+   "severity": "Medium",
+   "pages": 3,
+   "title": "The student salon is marked up as an Article",
+   "detail": "The clinic pages sell real services to the public \u2014 the salon locations page alone draws an estimated 1,198 visits a month \u2014 but they are typed as Article with the sitewide organisation attached.",
+   "fix": "Type these as HealthAndBeautyBusiness with a Service and Offer per treatment, priceRange, and the campus location."
+  },
+  {
+   "id": "faq-deprecated",
+   "severity": "Low",
+   "pages": 28,
+   "title": "FAQ markup no longer earns a rich result",
+   "detail": "28 pages carry FAQPage. Google removed the FAQ rich result from Search on 7 May 2026, and FAQ no longer appears in the search gallery. The markup is still worth keeping for entity clarity and AI citation, but it should not be counted as a SERP feature.",
+   "fix": "Keep the markup, reset the expectation. Do not report it as a rich-result win."
+  }
+ ],
+ "productNodes": [
+  {
+   "url": "/campuses/illinois/chicago-metro/",
+   "name": "Beauty School",
+   "rating": "4.45",
+   "count": "2680",
+   "hasOffers": false
+  },
+  {
+   "url": "/campuses/illinois/chicago-metro/esthetician-school/",
+   "name": "Esthetician School",
+   "rating": "4.7",
+   "count": "3247",
+   "hasOffers": false
+  },
+  {
+   "url": "/campuses/illinois/urbana/",
+   "name": "Cosmetology School",
+   "rating": "4.4",
+   "count": "134",
+   "hasOffers": false
+  },
+  {
+   "url": "/campuses/indiana/bloomington/",
+   "name": "Cosmetology School",
+   "rating": "4.3",
+   "count": "239",
+   "hasOffers": false
+  },
+  {
+   "url": "/campuses/indiana/indianapolis/cosmetology-program/",
+   "name": "Cosmetology School",
+   "rating": "3.6",
+   "count": "143",
+   "hasOffers": false
+  },
+  {
+   "url": "/campuses/indiana/indianapolis/esthetician-school/",
+   "name": "Esthetician School",
+   "rating": "3.6",
+   "count": "143",
+   "hasOffers": false
+  },
+  {
+   "url": "/programs/barber-school/",
+   "name": "Barber School",
+   "rating": "4.7",
+   "count": "3506",
+   "hasOffers": false
+  },
+  {
+   "url": "/programs/cosmetology/",
+   "name": "Cosmetology School",
+   "rating": "4.7",
+   "count": "6079",
+   "hasOffers": false
+  },
+  {
+   "url": "/programs/esthetics/",
+   "name": "Esthetician School",
+   "rating": "4.7",
+   "count": "5997",
+   "hasOffers": false
+  },
+  {
+   "url": "/programs/nail-technology/",
+   "name": "Nail Technology School",
+   "rating": "4.7",
+   "count": "6079",
+   "hasOffers": false
+  }
+ ],
+ "coursePages": [
+  "/programs/barber-school/",
+  "/programs/cosmetology/",
+  "/programs/esthetics/",
+  "/programs/nail-technology/",
+  "/programs/teacher-training/"
+ ],
+ "programNoCourse": [
+  "/programs/",
+  "/programs/20-years-of-beauty/",
+  "/programs/barber-school/barbering-curriculum/",
+  "/programs/barber-school/career-path/",
+  "/programs/barber-school/flexible-schedule/",
+  "/programs/barber-school/joe-flano-barber/",
+  "/programs/cosmetology/career-path/",
+  "/programs/cosmetology/cosmetology-curriculum/",
+  "/programs/cosmetology/flexible-schedule/",
+  "/programs/esthetics/career-path/",
+  "/programs/esthetics/flexible-schedule/",
+  "/programs/esthetics/what-is-esthetician-school/",
+  "/programs/nail-technology/career-path/",
+  "/programs/nail-technology/flexible-schedule/",
+  "/programs/nail-technology/nail-technology-curriculum/"
+ ],
+ "faqPages": [
+  "/admissions-financial-aid/admissions-process/",
+  "/beauty-blog/cosmetology/cosmetology-programs-for-high-school-students/",
+  "/beauty-blog/esthetics/do-you-need-an-esthetician-license-to-become-a-wax-technician/",
+  "/beauty-blog/esthetics/esthetician-licensing-requirements-in-illinois/",
+  "/beauty-blog/esthetics/esthetician-licensing-requirements-in-indiana/",
+  "/beauty-blog/esthetics/how-to-transfer-your-esthetician-license-to-another-state/",
+  "/beauty-blog/student-life/cosmetology-school-the-difference-between-perms-and-relaxers/",
+  "/campuses/illinois/",
+  "/campuses/illinois/chicago-metro/bridgeview/",
+  "/campuses/illinois/chicago-metro/bridgeview/barber-school/",
+  "/campuses/illinois/chicago-metro/cosmetology-program/",
+  "/campuses/illinois/chicago-metro/esthetician-school/",
+  "/campuses/illinois/chicago-metro/norwood-park/barber-school/",
+  "/campuses/illinois/rockford/barber-school/",
+  "/campuses/illinois/state-licensing/",
+  "/campuses/indiana/",
+  "/campuses/indiana/indianapolis/cosmetology-program/",
+  "/campuses/indiana/indianapolis/esthetician-school/",
+  "/campuses/indiana/indianapolis/nail-tech/",
+  "/campuses/indiana/lafayette/nail-tech/",
+  "/campuses/indiana/state-licensing/",
+  "/campuses/wisconsin/",
+  "/campuses/wisconsin/state-licensing/",
+  "/our-beauty-schools/beauty-affiliations/",
+  "/programs/barber-school/",
+  "/programs/cosmetology/",
+  "/programs/esthetics/",
+  "/programs/nail-technology/"
+ ],
+ "competitors": [
+  {
+   "domain": "ogleschool.edu",
+   "types": 17,
+   "list": [
+    "Article",
+    "BlogPosting",
+    "BreadcrumbList",
+    "CollegeOrUniversity",
+    "ContactPoint",
+    "Country",
+    "EducationalOccupationalProgram",
+    "ImageObject",
+    "ListItem",
+    "OfferCatalog",
+    "Organization",
+    "Person",
+    "PostalAddress",
+    "SearchAction",
+    "VideoObject",
+    "WebPage",
+    "WebSite"
+   ],
+   "hasCourse": false,
+   "hasProgram": true,
+   "hasLocal": false,
+   "hasOccupation": false
+  },
+  {
+   "domain": "empire.edu",
+   "types": 13,
+   "list": [
+    "Article",
+    "BreadcrumbList",
+    "CollectionPage",
+    "CommentAction",
+    "EntryPoint",
+    "ImageObject",
+    "ListItem",
+    "Person",
+    "PropertyValueSpecification",
+    "ReadAction",
+    "SearchAction",
+    "WebPage",
+    "WebSite"
+   ],
+   "hasCourse": false,
+   "hasProgram": false,
+   "hasLocal": false,
+   "hasOccupation": false
+  },
+  {
+   "domain": "milady.com",
+   "types": 12,
+   "list": [
+    "Article",
+    "BreadcrumbList",
+    "EntryPoint",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "Person",
+    "PropertyValueSpecification",
+    "ReadAction",
+    "SearchAction",
+    "WebPage",
+    "WebSite"
+   ],
+   "hasCourse": false,
+   "hasProgram": false,
+   "hasLocal": false,
+   "hasOccupation": false
+  },
+  {
+   "domain": "cosmetologyandspaacademy.edu",
+   "types": 11,
+   "list": [
+    "BlogPosting",
+    "BreadcrumbList",
+    "CollectionPage",
+    "EducationalOrganization",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "Person",
+    "SearchAction",
+    "WebPage",
+    "WebSite"
+   ],
+   "hasCourse": false,
+   "hasProgram": false,
+   "hasLocal": false,
+   "hasOccupation": false
+  },
+  {
+   "domain": "ebc.edu",
+   "types": 7,
+   "list": [
+    "AggregateRating",
+    "Answer",
+    "BeautySalon",
+    "ContactPoint",
+    "FAQPage",
+    "PostalAddress",
+    "Question"
+   ],
+   "hasCourse": false,
+   "hasProgram": false,
+   "hasLocal": true,
+   "hasOccupation": false
+  },
+  {
+   "domain": "paulmitchell.edu",
+   "types": 0,
+   "list": [],
+   "hasCourse": false,
+   "hasProgram": false,
+   "hasLocal": false,
+   "hasOccupation": false
+  },
+  {
+   "domain": "beautyschoolsdirectory.com",
+   "types": 0,
+   "list": [],
+   "hasCourse": false,
+   "hasProgram": false,
+   "hasLocal": false,
+   "hasOccupation": false
+  }
+ ],
+ "clientTypes": [
+  "AboutPage",
+  "AggregateRating",
+  "Answer",
+  "Article",
+  "BlogPosting",
+  "Brand",
+  "BreadcrumbList",
+  "CollegeOrUniversity",
+  "ContactPage",
+  "ContactPoint",
+  "Course",
+  "CourseInstance",
+  "EducationEvent",
+  "EducationalOccupationalProgram",
+  "EducationalOrganization",
+  "FAQPage",
+  "GeoCoordinates",
+  "GovernmentOrganization",
+  "ImageObject",
+  "ListItem",
+  "LocalBusiness",
+  "MediaObject",
+  "NewsArticle",
+  "Offer",
+  "OfferCatalog",
+  "Organization",
+  "Person",
+  "Place",
+  "PodcastEpisode",
+  "PodcastSeries",
+  "PostalAddress",
+  "Product",
+  "Question",
+  "Schedule",
+  "VideoObject",
+  "WebPage",
+  "WebSite"
+ ],
+ "totals": {
+  "pages": 670,
+  "types": 37,
+  "hqPages": 611,
+  "campusPages": 68,
+  "campusHqOnly": 52,
+  "withoutJsonLd": 2
+ }
+}
