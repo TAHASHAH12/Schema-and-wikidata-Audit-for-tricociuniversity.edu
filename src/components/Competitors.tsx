@@ -11,6 +11,12 @@ export default function Competitors() {
         <div className="eyebrow">Competitors</div>
         <h2>Nobody in this market is doing it properly</h2>
         <p className="lead">
+          This section asks what competing schools <em>ship</em>. The industry snapshot above asks
+          who actually <em>ranks</em>, and the two lists differ &mdash; several schools with good
+          markup hold no top-ten positions, and the domains that do hold them are mostly social.
+          Both matter; they answer different questions.
+        </p>
+        <p className="lead" style={{ marginTop: 0 }}>
           Structured data was read directly from the live pages of the seven domains that compete for
           the same terms, sampled by page role rather than at random &mdash; home, programme, campus
           and editorial &mdash; because the question is what a competitor puts on the page type we are

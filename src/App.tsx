@@ -4,6 +4,7 @@ import Defects from "./components/Defects";
 import Coverage from "./components/Coverage";
 import Campuses from "./components/Campuses";
 import Courses from "./components/Courses";
+import Industry from "./components/Industry";
 import EntityLayer from "./components/EntityLayer";
 import VerificationGate from "./components/VerificationGate";
 import Competitors from "./components/Competitors";
@@ -20,6 +21,7 @@ export default function App() {
       <Coverage />
       <Campuses />
       <Courses />
+      <Industry />
       <EntityLayer />
       <VerificationGate />
       <Competitors />

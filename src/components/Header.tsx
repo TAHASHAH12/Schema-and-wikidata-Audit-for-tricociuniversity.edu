@@ -6,6 +6,7 @@ const LINKS = [
   { id: "coverage", label: "Markup by page type" },
   { id: "campuses", label: "The campus problem" },
   { id: "courses", label: "Course rich results" },
+  { id: "industry", label: "Industry snapshot" },
   { id: "entities", label: "Entity layer" },
   { id: "verification", label: "Verification gate" },
   { id: "competitors", label: "Competitors" },

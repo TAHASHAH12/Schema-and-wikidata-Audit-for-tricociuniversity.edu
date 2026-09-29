@@ -1,0 +1,797 @@
+{
+ "domain": "tricociuniversity.edu",
+ "domainRows": [
+  {
+   "domain": "reddit.com",
+   "kind": "UGC / social",
+   "pages": 30,
+   "read": 0,
+   "anyLd": null,
+   "product": null,
+   "types": []
+  },
+  {
+   "domain": "facebook.com",
+   "kind": "UGC / social",
+   "pages": 27,
+   "read": 21,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "youtube.com",
+   "kind": "UGC / social",
+   "pages": 20,
+   "read": 20,
+   "anyLd": 15,
+   "product": 0,
+   "types": [
+    "VideoObject",
+    "https://schema.org/Comment",
+    "https://schema.org/Person",
+    "FollowAction",
+    "InteractionCounter",
+    "Person"
+   ]
+  },
+  {
+   "domain": "instagram.com",
+   "kind": "UGC / social",
+   "pages": 17,
+   "read": 17,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "yelp.com",
+   "kind": "UGC / social",
+   "pages": 11,
+   "read": 1,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "Answer",
+    "BreadcrumbList",
+    "ImageObject",
+    "ListItem",
+    "LocalBusiness",
+    "Organization"
+   ]
+  },
+  {
+   "domain": "pinterest.com",
+   "kind": "UGC / social",
+   "pages": 8,
+   "read": 8,
+   "anyLd": 12,
+   "product": 0,
+   "types": [
+    "BreadcrumbList",
+    "ListItem"
+   ]
+  },
+  {
+   "domain": "paulmitchell.edu",
+   "kind": "known competitor",
+   "pages": 7,
+   "read": 0,
+   "anyLd": null,
+   "product": null,
+   "types": []
+  },
+  {
+   "domain": "indeed.com",
+   "kind": "known competitor",
+   "pages": 7,
+   "read": 7,
+   "anyLd": 43,
+   "product": 0,
+   "types": [
+    "Article",
+    "Organization",
+    "Person",
+    "WebPage",
+    "Answer",
+    "BreadcrumbList"
+   ]
+  },
+  {
+   "domain": "careervillage.org",
+   "kind": "other site",
+   "pages": 6,
+   "read": 0,
+   "anyLd": null,
+   "product": null,
+   "types": []
+  },
+  {
+   "domain": "beautyschoolsdirectory.com",
+   "kind": "known competitor",
+   "pages": 5,
+   "read": 3,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "Article",
+    "ImageObject",
+    "Organization"
+   ]
+  },
+  {
+   "domain": "tiktok.com",
+   "kind": "UGC / social",
+   "pages": 5,
+   "read": 5,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "mapquest.com",
+   "kind": "known competitor",
+   "pages": 4,
+   "read": 0,
+   "anyLd": null,
+   "product": null,
+   "types": []
+  },
+  {
+   "domain": "niche.com",
+   "kind": "other site",
+   "pages": 4,
+   "read": 4,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "AggregateRating",
+    "BreadcrumbList",
+    "CollegeOrUniversity",
+    "ListItem",
+    "Organization",
+    "PostalAddress"
+   ]
+  },
+  {
+   "domain": "idfpr.illinois.gov",
+   "kind": "other site",
+   "pages": 3,
+   "read": 3,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "americasbeautyshow.com",
+   "kind": "other site",
+   "pages": 3,
+   "read": 3,
+   "anyLd": 67,
+   "product": 0,
+   "types": [
+    "BlogPosting",
+    "ImageObject",
+    "Organization",
+    "Person",
+    "WebPage"
+   ]
+  },
+  {
+   "domain": "lemon8-app.com",
+   "kind": "UGC / social",
+   "pages": 3,
+   "read": 3,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "quora.com",
+   "kind": "UGC / social",
+   "pages": 3,
+   "read": 3,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "rcc.edu",
+   "kind": "other site",
+   "pages": 3,
+   "read": 3,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "tdlr.texas.gov",
+   "kind": "other site",
+   "pages": 3,
+   "read": 3,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "ar.pinterest.com",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "aveda.edu",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "BreadcrumbList",
+    "EntryPoint",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "PropertyValueSpecification"
+   ]
+  },
+  {
+   "domain": "avedafi.edu",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "BeautySalon",
+    "LocalBusiness",
+    "OpeningHoursSpecification",
+    "PostalAddress",
+    "Course",
+    "Organization"
+   ]
+  },
+  {
+   "domain": "bcb.az.gov",
+   "kind": "other site",
+   "pages": 2,
+   "read": 1,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "bellalash.com",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 100,
+   "product": 100,
+   "types": [
+    "Brand",
+    "Offer",
+    "Organization",
+    "Product"
+   ]
+  },
+  {
+   "domain": "bigfuture.collegeboard.org",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "collegescorecard.ed.gov",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "dfwlashuniversity.com",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "BlogPosting",
+    "BreadcrumbList",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "Person"
+   ]
+  },
+  {
+   "domain": "dos.ny.gov",
+   "kind": "other site",
+   "pages": 2,
+   "read": 1,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "elitebeautysociety.com",
+   "kind": "known competitor",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "BreadcrumbList",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "Person",
+    "WebPage"
+   ]
+  },
+  {
+   "domain": "en.wikipedia.org",
+   "kind": "reference",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "Article",
+    "ImageObject",
+    "Organization"
+   ]
+  },
+  {
+   "domain": "m.yelp.com",
+   "kind": "other site",
+   "pages": 2,
+   "read": 0,
+   "anyLd": null,
+   "product": null,
+   "types": []
+  },
+  {
+   "domain": "thelashprofessional.com",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 100,
+   "product": 50,
+   "types": [
+    "Corporation",
+    "Brand",
+    "BreadcrumbList",
+    "ListItem",
+    "Offer",
+    "Product"
+   ]
+  },
+  {
+   "domain": "uofac.edu",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "ContactPoint",
+    "EducationalOrganization",
+    "ImageObject",
+    "PostalAddress",
+    "PropertyValue",
+    "SearchAction"
+   ]
+  },
+  {
+   "domain": "amazon.com",
+   "kind": "known competitor",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "ascpskincare.com",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "BreadcrumbList",
+    "ListItem"
+   ]
+  },
+  {
+   "domain": "barbercosmo.ca.gov",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "collegefactual.com",
+   "kind": "other site",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "collegetuitioncompare.com",
+   "kind": "other site",
+   "pages": 2,
+   "read": 1,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "BreadcrumbList",
+    "EntryPoint",
+    "ListItem",
+    "Organization",
+    "SearchAction",
+    "Table"
+   ]
+  },
+  {
+   "domain": "empire.edu",
+   "kind": "known competitor",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "BreadcrumbList",
+    "EntryPoint",
+    "ListItem",
+    "PropertyValueSpecification",
+    "ReadAction",
+    "SearchAction"
+   ]
+  },
+  {
+   "domain": "linkedin.com",
+   "kind": "UGC / social",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 50,
+   "product": 0,
+   "types": [
+    "ImageObject",
+    "InteractionCounter",
+    "Organization",
+    "QuantitativeValue",
+    "SocialMediaPosting"
+   ]
+  }
+ ],
+ "competitors": [
+  {
+   "domain": "paulmitchell.edu",
+   "kind": "known competitor",
+   "pages": 7,
+   "read": 0,
+   "anyLd": null,
+   "product": null,
+   "types": []
+  },
+  {
+   "domain": "indeed.com",
+   "kind": "known competitor",
+   "pages": 7,
+   "read": 7,
+   "anyLd": 43,
+   "product": 0,
+   "types": [
+    "Article",
+    "Organization",
+    "Person",
+    "WebPage",
+    "Answer",
+    "BreadcrumbList"
+   ]
+  },
+  {
+   "domain": "beautyschoolsdirectory.com",
+   "kind": "known competitor",
+   "pages": 5,
+   "read": 3,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "Article",
+    "ImageObject",
+    "Organization"
+   ]
+  },
+  {
+   "domain": "mapquest.com",
+   "kind": "known competitor",
+   "pages": 4,
+   "read": 0,
+   "anyLd": null,
+   "product": null,
+   "types": []
+  },
+  {
+   "domain": "elitebeautysociety.com",
+   "kind": "known competitor",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "BreadcrumbList",
+    "ImageObject",
+    "ListItem",
+    "Organization",
+    "Person",
+    "WebPage"
+   ]
+  },
+  {
+   "domain": "amazon.com",
+   "kind": "known competitor",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "empire.edu",
+   "kind": "known competitor",
+   "pages": 2,
+   "read": 2,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "BreadcrumbList",
+    "EntryPoint",
+    "ListItem",
+    "PropertyValueSpecification",
+    "ReadAction",
+    "SearchAction"
+   ]
+  },
+  {
+   "domain": "cosmetologyandspaacademy.edu",
+   "kind": "known competitor",
+   "pages": 1,
+   "read": 1,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "BlogPosting",
+    "BreadcrumbList",
+    "EducationalOrganization",
+    "ImageObject",
+    "ListItem",
+    "Organization"
+   ]
+  },
+  {
+   "domain": "beautyschools.com",
+   "kind": "known competitor",
+   "pages": 1,
+   "read": 1,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "BreadcrumbList",
+    "ListItem",
+    "Organization",
+    "WebPage",
+    "WebSite"
+   ]
+  },
+  {
+   "domain": "ebc.edu",
+   "kind": "known competitor",
+   "pages": 1,
+   "read": 1,
+   "anyLd": 0,
+   "product": 0,
+   "types": []
+  },
+  {
+   "domain": "lorealparisusa.com",
+   "kind": "known competitor",
+   "pages": 1,
+   "read": 1,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntryPoint",
+    "ListItem",
+    "Organization",
+    "SearchAction"
+   ]
+  },
+  {
+   "domain": "milady.com",
+   "kind": "known competitor",
+   "pages": 1,
+   "read": 1,
+   "anyLd": 100,
+   "product": 0,
+   "types": [
+    "Article",
+    "BreadcrumbList",
+    "EntryPoint",
+    "ImageObject",
+    "ListItem",
+    "Organization"
+   ]
+  },
+  {
+   "domain": "ziprecruiter.com",
+   "kind": "known competitor",
+   "pages": 1,
+   "read": 0,
+   "anyLd": null,
+   "product": null,
+   "types": []
+  }
+ ],
+ "competitorSet": [
+  "amazon.com",
+  "beautyschools.com",
+  "beautyschoolsdirectory.com",
+  "byrdie.com",
+  "campus.edu",
+  "cosmetologyandspaacademy.edu",
+  "ebc.edu",
+  "elitebeautysociety.com",
+  "empire.edu",
+  "glossgenius.com",
+  "indeed.com",
+  "issnmtschool.com",
+  "lorealparisusa.com",
+  "mapquest.com",
+  "milady.com",
+  "ogleschool.edu",
+  "paulmitchell.edu",
+  "socalbarberbeauty.com",
+  "wikipedia.org",
+  "ziprecruiter.com"
+ ],
+ "keywords": 60,
+ "volume": 424020,
+ "urls": 478,
+ "read": 376,
+ "unread": 102,
+ "domains": 301,
+ "aiKeywords": 34,
+ "aiPct": 57,
+ "aiTop": [
+  {
+   "domain": "youtube.com",
+   "n": 7
+  },
+  {
+   "domain": "en.wikipedia.org",
+   "n": 4
+  },
+  {
+   "domain": "google.com",
+   "n": 4
+  },
+  {
+   "domain": "tricociuniversity.edu",
+   "n": 3
+  },
+  {
+   "domain": "bls.gov",
+   "n": 3
+  },
+  {
+   "domain": "naturalhealers.com",
+   "n": 3
+  },
+  {
+   "domain": "johnfrieda.com",
+   "n": 2
+  },
+  {
+   "domain": "instagram.com",
+   "n": 2
+  },
+  {
+   "domain": "afrocenchix.com",
+   "n": 2
+  },
+  {
+   "domain": "indeed.com",
+   "n": 2
+  },
+  {
+   "domain": "paulmitchell.edu",
+   "n": 2
+  },
+  {
+   "domain": "tiktok.com",
+   "n": 2
+  }
+ ],
+ "clientAi": 3,
+ "carouselKeywords": 8,
+ "carouselPct": 13,
+ "carouselTotal": 100,
+ "byKind": {
+  "other site": 271,
+  "UGC / social": 80,
+  "known competitor": 21,
+  "reference": 2,
+  "the client": 2
+ },
+ "pageTypes": {
+  "other": 453,
+  "product page": 14,
+  "category / listing": 11
+ },
+ "markupByKind": {
+  "other site": {
+   "n": 271,
+   "anyLd": 66,
+   "product": 3
+  },
+  "known competitor": {
+   "n": 21,
+   "anyLd": 67,
+   "product": 0
+  },
+  "reference": {
+   "n": 2,
+   "anyLd": 100,
+   "product": 0
+  },
+  "UGC / social": {
+   "n": 80,
+   "anyLd": 8,
+   "product": 0
+  },
+  "the client": {
+   "n": 2,
+   "anyLd": 100,
+   "product": 0
+  }
+ },
+ "types": {
+  "Organization": 138,
+  "WebSite": 125,
+  "ImageObject": 122,
+  "WebPage": 119,
+  "ListItem": 117,
+  "BreadcrumbList": 116,
+  "Person": 86,
+  "SearchAction": 73,
+  "EntryPoint": 63,
+  "ReadAction": 57,
+  "PropertyValueSpecification": 56,
+  "Article": 50,
+  "PostalAddress": 45,
+  "BlogPosting": 28,
+  "LocalBusiness": 18,
+  "GeoCoordinates": 18,
+  "Answer": 17,
+  "Question": 17,
+  "FAQPage": 15,
+  "Offer": 15
+ },
+ "cost": 0.36
+}
